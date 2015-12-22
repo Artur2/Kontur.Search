@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kontur.ConsoleApp", "Kontur.ConsoleApp\Kontur.ConsoleApp.csproj", "{CAED277C-FB83-4460-98BF-A553397DC8BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kontur.Search", "Kontur.Search\Kontur.Search.csproj", "{FF7246F6-C71C-4698-98C2-14D4475C865E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kontur.Search.Tests", "Kontur.Search.Tests\Kontur.Search.Tests.csproj", "{DE8B1061-B4BB-4B93-9D83-26D176E36AF6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAED277C-FB83-4460-98BF-A553397DC8BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAED277C-FB83-4460-98BF-A553397DC8BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAED277C-FB83-4460-98BF-A553397DC8BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAED277C-FB83-4460-98BF-A553397DC8BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF7246F6-C71C-4698-98C2-14D4475C865E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF7246F6-C71C-4698-98C2-14D4475C865E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF7246F6-C71C-4698-98C2-14D4475C865E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF7246F6-C71C-4698-98C2-14D4475C865E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE8B1061-B4BB-4B93-9D83-26D176E36AF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE8B1061-B4BB-4B93-9D83-26D176E36AF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE8B1061-B4BB-4B93-9D83-26D176E36AF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE8B1061-B4BB-4B93-9D83-26D176E36AF6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

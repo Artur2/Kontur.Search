@@ -1,0 +1,2 @@
+# Kontur.Search
+Search library
