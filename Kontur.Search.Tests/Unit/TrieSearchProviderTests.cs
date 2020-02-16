@@ -74,7 +74,7 @@ namespace Kontur.Search.Tests.Unit
             Assert.True(searchResults.FirstOrDefault() == entries.ElementAt(1).Value);
         }
 
-        [Theory(DisplayName = "Добавляем 100 000 записей и ищем с кол-вом 50 000 результатов")]
+        [Theory(DisplayName = "Добавляем 100 000 записей и ищем с кол-вом 50 000 результатов", Skip = "Run on demand")]
         [InlineData("0xDEAD")]
         [InlineData("Diz Nutz")]
         [InlineData("Okay!!!")]
